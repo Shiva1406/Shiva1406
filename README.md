@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-### :fire: My Stats :
 <!--
 **Shiva1406/Shiva1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
